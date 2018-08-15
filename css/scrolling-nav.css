@@ -44,3 +44,8 @@ section {
 .social-icons a:hover {
   background-color: #F83151;
 }
+
+.glyphicon {
+    font-size: 23px;
+}
+
