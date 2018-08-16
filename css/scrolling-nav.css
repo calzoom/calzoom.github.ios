@@ -21,7 +21,7 @@ section {
 }
 
 #title{
-	font-size: 30px;
+	font-size: 40px;
 	}
 
 .social-icons a {
@@ -42,10 +42,10 @@ section {
 }
 
 .social-icons a:hover {
-  background-color: #F83151;
+  background-color: blue;
 }
 
 .glyphicon {
-    font-size: 23px;
+    font-size: 40px;
 }
 
